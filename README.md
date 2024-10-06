@@ -89,5 +89,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 
 ## ✨ About the Author
 This project is developed and maintained by Shazil Shahid, a passionate data analyst and software engineer. If you have any suggestions, feel free to reach out or contribute!
-
+### Happy Analyzing!
 
